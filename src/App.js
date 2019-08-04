@@ -20,7 +20,7 @@ function App() {
         </a>
       </header>
       <p className="App-intro">
-        HI There!
+        Changed from develop branch
       </p>
     </div>
   );
