@@ -19,8 +19,12 @@ function App() {
           Learn React
         </a>
       </header>
+      <p className="App-intro">
+        HI There!
+      </p>
     </div>
   );
+
 }
 
 export default App;
